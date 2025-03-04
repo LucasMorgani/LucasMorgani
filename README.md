@@ -6,7 +6,6 @@
 
 
 ![Lucas Morgani GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMorgani&show_icons=true&theme=onedark&hide_border=true&title_color=ffffff&text_color=37c3c0&bg_color=041116)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMorgani&&layout=compact&hide_border=true&title_color=ffffff&text_color=37c3c0&bg_color=041116)
 
 
@@ -23,3 +22,9 @@
     <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img align="center" alt="Vagrant" src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white">
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasMorgani/LucasMorgani/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasMorgani/LucasMorgani/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>

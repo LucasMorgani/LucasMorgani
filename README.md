@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-041116?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmorgani/)
-[![Medium](https://img.shields.io/badge/Medium-041116?style=for-the-badge&logo=medium&logoColor=white)]()
+[![Medium](https://img.shields.io/badge/Medium-041116?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@morganis1411)
 [![Instagram](https://img.shields.io/badge/Instagram-041116?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luqueta002)
 
 </div>

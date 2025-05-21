@@ -32,7 +32,8 @@ Atualmente, sou Analista de TI Pleno com sólida experiência em administração
     <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0A1A2A?style=for-the-badge&logo=windows&logoColor=white">
     <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-0A1A2A?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-0A1A2A?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="Shell-Script" src="https://img.shields.io/badge/Shell_Script-0A1A2A?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img align="center" alt="Shell-Script" src="https://img.shields.io/badge/Shell_Script-0A1A2A?style=for-the-badge&logo=gnu-bash&logoColor=white">
+    <br>
     <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-0A1A2A?style=for-the-badge&logo=git&logoColor=white">
     <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-0A1A2A?style=for-the-badge&logo=docker&logoColor=white">
     <img align="center" alt="Vagrant" src="https://img.shields.io/badge/Vagrant-0A1A2A?style=for-the-badge&logo=vagrant&logoColor=white">

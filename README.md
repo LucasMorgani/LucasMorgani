@@ -36,6 +36,8 @@ Atualmente, sou Analista de TI Pleno com sólida experiência em administração
     <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-0A1A2A?style=for-the-badge&logo=git&logoColor=white">
     <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-0A1A2A?style=for-the-badge&logo=docker&logoColor=white">
     <img align="center" alt="Vagrant" src="https://img.shields.io/badge/Vagrant-0A1A2A?style=for-the-badge&logo=vagrant&logoColor=white">
+    <img align="center" alt="Ansible" src="https://img.shields.io/badge/Ansible-0A1A2A?style=for-the-badge&logo=ansible&logoColor=white">
+    <img align="center" alt="Terraform" src="https://img.shields.io/badge/Terraform-0A1A2A?style=for-the-badge&logo=terraform&logoColor=white">
 </div>
 
 <br>

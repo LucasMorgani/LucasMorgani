@@ -9,7 +9,7 @@
 </div>
 
 <p align="Center">
-Atualmente, sou Analista de TI Pleno com sólida experiência em administração de infraestrutura e suporte de TI. Em constante evolução, estou focado em me tornar um profissional DevOps. No meu GitHub, compartilho projetos em desenvolvimento, e convido você a explorar, contribuir e acompanhar meu progresso à medida que avanço nessa jornada profissional!
+No meu GitHub, compartilho projetos em desenvolvimento, e convido você a explorar, contribuir e acompanhar meu progresso à medida que avanço em minha jornada profissional.
 </p>
 
 ##
